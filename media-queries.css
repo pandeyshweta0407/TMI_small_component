@@ -1,0 +1,67 @@
+
+@media screen  and (max-width : 600px){
+    
+#container{
+    height: 250px;
+     width: 500px;
+}
+
+#left{
+    height: 250;
+    width: 100px;
+}
+
+#left-upper{
+    font-size: 60px;
+   
+
+}
+
+#left-down{
+    font-size: 10px;   
+}
+
+
+#right{
+    height: 250;
+    width: 400px;
+   
+ }
+
+#right-upper{   
+    height: 50px;
+    width: 400px;
+    font-size: 15px;    
+}
+
+.upper_01{
+
+}
+
+#right-down{
+    height: 150px;
+    width: 400px;
+    margin: 10px;
+    margin-right: 40px;  
+} 
+
+.box{
+    height: 170px;
+    width: 133px;
+}
+
+
+
+.box_01{
+ font-size:20px ;
+}
+
+
+.box_02{
+    font-size: 10px;
+}
+
+.box_03{
+    font-size: 10px;
+}
+}
