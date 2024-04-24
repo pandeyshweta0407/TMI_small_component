@@ -11,7 +11,7 @@
     top:150px;
     height: 500px;
     width: 400px;
-   
+    overflow: hidden;
 }
 
 #left{
